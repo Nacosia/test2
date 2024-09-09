@@ -13,4 +13,5 @@ jobs:
 
     steps:
       - name: Checkout code1
+        run: echo ok
 
