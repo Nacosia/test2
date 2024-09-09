@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "t2" ]
+    branches: "t2"
   pull_request:
-    branches: [ "t2" ]
+    branches: "t2"
 
   # Allows you to run this workflow manually from the Actions tab
 
