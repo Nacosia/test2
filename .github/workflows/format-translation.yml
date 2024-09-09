@@ -11,6 +11,6 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-        run: echo ok
+      - run: echo ok
 
 
