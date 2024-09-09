@@ -11,5 +11,5 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-xxxx
+      - run: printf 123
 
