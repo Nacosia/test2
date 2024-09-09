@@ -10,9 +10,8 @@ on:
 jobs:
   job1:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code1
-
+        run: echo ok
 
 
